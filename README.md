@@ -55,19 +55,23 @@ HTMLとCSSで作られたシンプルでモダンなUIクローン。
 
 ---
 
-### 📊 GitHub Stats | 統計情報
-![Afas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afas66&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Afas66&layout=compact&theme=tokyonight&hide_border=true)
+## 📊 GitHub Stats | GitHub統計
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Afas66&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afas66&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="150" />
+</p>
 
 ---
 
-### 🌸 Let’s Connect | つながりましょう！
-📧 [Email](mailto:afasahamed077@gmail.com)  
-💼 [LinkedIn](https://linkedin.com/in/afas-ahamad-2a3a50312)  
-💻 [GitHub](https://github.com/Afas66)
+## 🌸 Let’s Connect | つながりましょう
+<p align="center">
+  <a href="mailto:afasahamed077@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/afas-ahamad-2a3a50312"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Afas66"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
-> *“Technology transcends borders — my goal is to build software that connects people, cultures, and opportunities.”* 🌏  
-> *「テクノロジーは国境を越える — 私の目標は、人々・文化・機会をつなぐソフトウェアを作ることです。」*  
-> – Afas Ahamad
+> 🧭 *"Technology transcends borders — my goal is to build software that connects people, cultures, and opportunities."*  
+> 「テクノロジーは国境を越える — 私の目標は、人々・文化・チャンスをつなぐソフトウェアを創ることです。」  
+> — **Afas Ahamad**
